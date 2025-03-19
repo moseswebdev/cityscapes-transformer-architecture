@@ -15,6 +15,3 @@ and urban planning.
 Refer to the repository for instructions on how to train, evaluate, and deploy the model. Make sure to install all dependencies listed in `requirements.txt`.
 
 ---
-
-Feel free to add more details later, like dataset download instructions, training parameters, or examples of model outputs. Let me know if you'd like help refining
-this further! 🚀
